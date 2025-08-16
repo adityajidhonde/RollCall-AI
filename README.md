@@ -36,7 +36,7 @@ Android SDK: The app requires a minimum SDK version of 24.
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/adityajidhonde/RollCall-AI.git
 
 Open in Android Studio:
 Open Android Studio, select "Open an Existing Project," and navigate to the cloned directory.
